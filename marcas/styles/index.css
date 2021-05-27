@@ -7,3 +7,13 @@ h2 {
 a {
     color:blue;
 }
+.buscador {
+    color:green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#epigrafe1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+div > h2 {font-size: smaller;}
