@@ -1,4 +1,5 @@
-const url = "https://api.frankfurter.app/latest"
+const url = "https://api.frankfurter.app/latest";
+
 
 //promesas
 fetch (url)
